@@ -1,0 +1,7 @@
+flask>=3.0,<4
+transformers>=4.40,<5
+torch>=2.2
+streamlit>=1.35
+requests>=2.31
+python-dotenv>=1.0
+PyJWT>=2.8
