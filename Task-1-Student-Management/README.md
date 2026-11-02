@@ -51,4 +51,4 @@ Streamlit: http://localhost:8501
 
 ## Demonstration Video
 
-Add the public demonstration video link here.
+(https://drive.google.com/file/d/11GqBoHKZ6MaZyXEs5smXtArAMNB68Hn_/view?usp=sharing)
