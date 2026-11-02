@@ -66,7 +66,9 @@ GET `/history` with the same Authorization header returns saved rows.
 4. Analyze positive and negative text.
 5. Click **Show Saved Predictions (Table)** to prove database storage.
 6. Explain `POST` vs `GET`, secret keys and JWT authorization.
-7. Show GitHub repository and submit its URL with your screen recording in Google Classroom.
+7. ## Demonstration Video
+
+[Watch Task 2 - API Key Demonstration](https://drive.google.com/file/d/1rhMgNuOnrDIzBWsSEU52LskNZ50LiKHN/view?usp=drivesdk)
 
 ## Security
 Never commit `.env` or real credentials. Local demo only; do not expose Flask debug mode publicly. Passwords in this small educational application are local demonstration credentials, not a production user authentication system.
