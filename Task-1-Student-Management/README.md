@@ -51,4 +51,4 @@ Streamlit: http://localhost:8501
 
 ## Demonstration Video
 
-(https://drive.google.com/file/d/11GqBoHKZ6MaZyXEs5smXtArAMNB68Hn_/view?usp=sharing)
+[Watch Task 1 Demonstration Video](https://drive.google.com/file/d/11GqBoHKZ6MaZyXEs5smXtArAMNB68Hn_/view?usp=sharing)
