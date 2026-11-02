@@ -75,4 +75,4 @@ Actual API keys are not included in this repository.
 
 ## Demonstration Video
 
-[Watch Task 2 - API Key Demonstration](https://drive.google.com/file/d/1rhMgNuOnrDIzBWsSEU52LskNZ50LiKHN/view?usp=drivesdk)
+(https://drive.google.com/file/d/1rhMgNuOnrDIzBWsSEU52LskNZ50LiKHN/view?usp=drivesdk)
